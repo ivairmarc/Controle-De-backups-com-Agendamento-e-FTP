@@ -1,7 +1,9 @@
 
 # Controle De backups com Agendamento e FTP
-> Sistema de backup automatizado com rotina de backup agendado, com criptografia.
+> Sistema de backup automatizado com rotina de backup agendado, com criptografia.<br>
+Possui
 Cadastro de sistemas, usuarios, navegação FTP, modulo de compactação.
+Projeto privado, mais informaçoes entre em contato
 
 
 
